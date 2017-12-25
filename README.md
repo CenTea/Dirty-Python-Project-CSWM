@@ -1,9 +1,9 @@
-# Dirty-Python-Project-CSWM
-#
 # CSWM - Central Security Whitelist Model
 
 A project I had for cloud computing.
+
 Intended to be a process checking system for Linux between different computers/VMs.
+
 It was tried on AWS and attempted to manage multiple EC2 Ubuntu systems.
 
 There are better ways to go around this, but unfortunately there was a time factor to deal with.
